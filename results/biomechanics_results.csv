@@ -1,0 +1,7 @@
+Scenario,IOP_mmHg,Max_Stress_kPa,Max_Strain_percent,Max_Displacement_um
+Hypotony,10,8.27,4.13,8.27
+Normal,15,12.40,6.20,12.40
+Upper Normal,21,17.36,8.68,17.36
+Ocular HTN,25,20.66,10.33,20.66
+Mild Glaucoma,30,24.80,12.40,24.80
+Severe Glaucoma,40,33.06,16.53,33.06

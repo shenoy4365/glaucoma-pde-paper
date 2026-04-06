@@ -1,0 +1,22 @@
+{
+  "overall": {
+    "n_images": 200,
+    "disc_diameter_mean": 19.09399381103516,
+    "disc_diameter_std": 0.3715194824089296,
+    "cdr_mean": 1.405065264417604,
+    "cdr_std": 0.023107523507833173,
+    "disc_area_mean": 286.4487972873098
+  },
+  "glaucoma": {
+    "n_images": 150,
+    "disc_diameter_mean": 19.099066512044274,
+    "cdr_mean": 1.4080049415280091,
+    "cdr_std": 0.025181879791964817
+  },
+  "normal": {
+    "n_images": 50,
+    "disc_diameter_mean": 19.078775708007814,
+    "cdr_mean": 1.3962462330863885,
+    "cdr_std": 0.011594876220260774
+  }
+}

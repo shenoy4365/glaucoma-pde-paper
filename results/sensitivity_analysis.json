@@ -1,0 +1,149 @@
+[
+  {
+    "E_LC": 100000.0,
+    "E_LC_ratio": 0.5,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 24.797891999999997,
+    "displacement_um": 49.595784
+  },
+  {
+    "E_LC": 110000.00000000001,
+    "E_LC_ratio": 0.55,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 22.543538181818178,
+    "displacement_um": 45.08707636363636
+  },
+  {
+    "E_LC": 120000.0,
+    "E_LC_ratio": 0.6,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 20.66491,
+    "displacement_um": 41.329820000000005
+  },
+  {
+    "E_LC": 130000.0,
+    "E_LC_ratio": 0.65,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 19.075301538461538,
+    "displacement_um": 38.15060307692308
+  },
+  {
+    "E_LC": 140000.0,
+    "E_LC_ratio": 0.7,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 17.71278,
+    "displacement_um": 35.425560000000004
+  },
+  {
+    "E_LC": 150000.0,
+    "E_LC_ratio": 0.75,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 16.531927999999997,
+    "displacement_um": 33.063855999999994
+  },
+  {
+    "E_LC": 160000.0,
+    "E_LC_ratio": 0.8,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 15.4986825,
+    "displacement_um": 30.997365
+  },
+  {
+    "E_LC": 170000.00000000003,
+    "E_LC_ratio": 0.8500000000000002,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 14.586995294117644,
+    "displacement_um": 29.17399058823529
+  },
+  {
+    "E_LC": 180000.0,
+    "E_LC_ratio": 0.9,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 13.776606666666666,
+    "displacement_um": 27.553213333333332
+  },
+  {
+    "E_LC": 190000.0,
+    "E_LC_ratio": 0.95,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 13.051522105263158,
+    "displacement_um": 26.103044210526317
+  },
+  {
+    "E_LC": 200000.0,
+    "E_LC_ratio": 1.0,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 12.398945999999999,
+    "displacement_um": 24.797892
+  },
+  {
+    "E_LC": 210000.0,
+    "E_LC_ratio": 1.05,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 11.80852,
+    "displacement_um": 23.617040000000003
+  },
+  {
+    "E_LC": 220000.00000000003,
+    "E_LC_ratio": 1.1,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 11.271769090909089,
+    "displacement_um": 22.54353818181818
+  },
+  {
+    "E_LC": 229999.99999999997,
+    "E_LC_ratio": 1.15,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 10.781692173913045,
+    "displacement_um": 21.56338434782609
+  },
+  {
+    "E_LC": 240000.00000000003,
+    "E_LC_ratio": 1.2000000000000002,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 10.332455,
+    "displacement_um": 20.66491
+  },
+  {
+    "E_LC": 250000.0,
+    "E_LC_ratio": 1.25,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 9.9191568,
+    "displacement_um": 19.8383136
+  },
+  {
+    "E_LC": 260000.0,
+    "E_LC_ratio": 1.3,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 9.537650769230769,
+    "displacement_um": 19.07530153846154
+  },
+  {
+    "E_LC": 270000.0,
+    "E_LC_ratio": 1.35,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 9.184404444444445,
+    "displacement_um": 18.36880888888889
+  },
+  {
+    "E_LC": 280000.0,
+    "E_LC_ratio": 1.4,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 8.85639,
+    "displacement_um": 17.712780000000002
+  },
+  {
+    "E_LC": 290000.00000000006,
+    "E_LC_ratio": 1.4500000000000004,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 8.550997241379308,
+    "displacement_um": 17.101994482758617
+  },
+  {
+    "E_LC": 300000.0,
+    "E_LC_ratio": 1.5,
+    "sigma_max_kPa": 24.797892,
+    "strain_percent": 8.265963999999999,
+    "displacement_um": 16.531927999999997
+  }
+]

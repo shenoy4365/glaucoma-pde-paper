@@ -1,0 +1,19 @@
+{
+  "globe_radius": 12.0,
+  "anterior_chamber_depth": 3.0,
+  "corneal_radius": 7.8,
+  "onh_diameter": 1.7,
+  "lamina_cribrosa_thickness": 0.2,
+  "scleral_canal_diameter": 1.9,
+  "sclera_thickness": 0.5,
+  "cornea_thickness": 0.52,
+  "sclera_E": 2900000.0,
+  "sclera_nu": 0.47,
+  "lamina_E": 200000.0,
+  "lamina_nu": 0.45,
+  "cornea_E": 300000.0,
+  "cornea_nu": 0.49,
+  "aqueous_viscosity": 0.0007,
+  "aqueous_density": 1000.0,
+  "production_rate": 4.1666666666666665e-11
+}

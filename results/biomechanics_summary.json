@@ -1,0 +1,50 @@
+{
+  "hypotony": {
+    "iop_mmHg": 10,
+    "iop_Pa": 1333.22,
+    "label": "Hypotony",
+    "max_stress_kPa": 8.265964,
+    "max_strain_percent": 4.132981999999999,
+    "max_displacement_um": 8.265963999999999
+  },
+  "normal": {
+    "iop_mmHg": 15,
+    "iop_Pa": 1999.83,
+    "label": "Normal",
+    "max_stress_kPa": 12.398946,
+    "max_strain_percent": 6.199472999999999,
+    "max_displacement_um": 12.398946
+  },
+  "upper_normal": {
+    "iop_mmHg": 21,
+    "iop_Pa": 2799.762,
+    "label": "Upper Normal",
+    "max_stress_kPa": 17.358524400000004,
+    "max_strain_percent": 8.679262200000002,
+    "max_displacement_um": 17.3585244
+  },
+  "ocular_htn": {
+    "iop_mmHg": 25,
+    "iop_Pa": 3333.05,
+    "label": "Ocular HTN",
+    "max_stress_kPa": 20.664910000000003,
+    "max_strain_percent": 10.332455000000001,
+    "max_displacement_um": 20.664910000000006
+  },
+  "mild_glaucoma": {
+    "iop_mmHg": 30,
+    "iop_Pa": 3999.66,
+    "label": "Mild Glaucoma",
+    "max_stress_kPa": 24.797892,
+    "max_strain_percent": 12.398945999999999,
+    "max_displacement_um": 24.797892
+  },
+  "severe_glaucoma": {
+    "iop_mmHg": 40,
+    "iop_Pa": 5332.88,
+    "label": "Severe Glaucoma",
+    "max_stress_kPa": 33.063856,
+    "max_strain_percent": 16.531927999999997,
+    "max_displacement_um": 33.063855999999994
+  }
+}
