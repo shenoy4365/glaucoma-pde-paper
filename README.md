@@ -6,37 +6,6 @@ By integrating machine learning datasets (HYGD, PAPILA, GRAPE) with physics-base
 
 ---
 
-## 📄 Research Paper & Figures
-
-**📊 Full Research Paper:** [View PDF](latex/main.pdf)
-**📝 LaTeX Source:** [View on GitHub](latex/)
-
-<p align="center">
-  <img src="figures/fig1_geometry.png" alt="Eye Geometry Model" width="400"/>
-  <br/>
-  <em>2D Axisymmetric Eye Geometry with Optic Nerve Head (ONH) Region</em>
-</p>
-
-<p align="center">
-  <img src="figures/fig5_stress_fields.png" alt="Stress Distribution" width="400"/>
-  <br/>
-  <em>Von Mises Stress Distribution at Normal (15 mmHg) vs Elevated IOP (30 mmHg)</em>
-</p>
-
-<p align="center">
-  <img src="figures/fig6_iop_stress_relationship.png" alt="IOP-Stress Correlation" width="400"/>
-  <br/>
-  <em>Linear Relationship: σ<sub>max</sub> = 0.83 × IOP (R² = 0.998)</em>
-</p>
-
-**📈 Complete Figure Set:**
-- [Validation: 1D FDM Convergence Analysis](figures/fig2_fdm_1d_validation.png)
-- [2D Pressure Field Solution](figures/fig3_fdm_2d_solution.png)
-- [Anterior Chamber Pressure Distribution](figures/fig4_pressure_distribution.png)
-- [Sensitivity Analysis: Material Properties](figures/fig7_sensitivity_analysis.png)
-
----
-
 ## 🔬 The Problem
 
 **Glaucoma** affects over 80 million people worldwide and is the leading cause of irreversible blindness. The disease is characterized by progressive optic nerve damage, often linked to elevated intraocular pressure (IOP). Understanding how IOP-induced biomechanical stress damages the optic nerve head (ONH) is critical for:
